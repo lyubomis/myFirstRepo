@@ -1,1 +1,1 @@
-Hello from github to source tree
+Hello from GitHub to source tree
